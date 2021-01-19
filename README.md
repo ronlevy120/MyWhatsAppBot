@@ -2,7 +2,7 @@
 
 ![](https://github.com/nikhilkumarsingh/WhatsAppBotTut/blob/master/images/1.png?raw=true)
 
-Inspired from the following tutorial:
+# *Inspired from the following tutorial:*
 
 A step-by-step tutorial to create a **WhatsApp Bot using Twilio and Python**.
 
