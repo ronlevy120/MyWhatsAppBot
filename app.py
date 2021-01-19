@@ -18,7 +18,7 @@ def sms_reply():
 
     # Create reply
     resp = MessagingResponse()
-    resp.message("You said: {}, which is very interesting! So you're from ITC, is your name Yoni?".format(msg))
+    resp.message("You said: {}, which is very interesting! So you're from ITC, is your name Yoni??".format(msg))
 
     return str(resp)
 
